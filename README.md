@@ -1,3 +1,3 @@
 # Flowcept
 
-## Please use the current repository: https://github.com/ORNL/flowcept
+## Please use the repository https://github.com/ORNL/flowcept
